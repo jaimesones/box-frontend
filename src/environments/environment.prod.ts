@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  REST_BACKEND: 'https://cener-backend.onrender.com',
+  REST_BACKEND: 'https://box-backend-vjvj.onrender.com',
 };
