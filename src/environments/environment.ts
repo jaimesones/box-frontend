@@ -5,8 +5,7 @@
 export const environment = {
   production: false,
    /*REST_BACKEND: 'http://localhost:8083',*/
-/* REST_BACKEND: 'https://box-backend-vjvj.onrender.com',*/
- REST_BACKEND: 'https://box-backend.netlify.app',
+  REST_BACKEND: 'https://box-backend-vjvj.onrender.com',
 };
 
 /*
